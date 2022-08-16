@@ -66,12 +66,15 @@
    # B. a soma do triplo do primeiro com o terceiro.
    # C. o terceiro elevado ao cubo. 
 
-n1 = int(input('Insira um valor inteiro: '))
-n2 = int(input('Insira um segundo valor inteiro: '))
-n3 = float(input('Insira um valor real: '))
+#n1 = int(input('Insira um valor inteiro: '))
+#n2 = int(input('Insira um segundo valor inteiro: '))
+#n3 = float(input('Insira um valor real: '))
 
-a = (n1*2)+n2/2
-b = (n1*3)+n3
-c = (n3**3)
+#a = (n1*2)+n2/2
+#b = (n1*3)+n3
+#c = (n3**3)
 
-print(a,b,c)
+#print(a,b,c)
+
+
+
